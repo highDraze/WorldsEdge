@@ -11,7 +11,7 @@
 *** 
 **Players** two or four (asynchronous on two Controlers)
 *** 
-**Synopsis & Discription** --
+**Synopsis & Discription**
 
 You (and your Partner) play against the other party on the through space floating island 'Tortouge'.
 Each Party has raft with 3 lives and a torpedo aiming to the front.
