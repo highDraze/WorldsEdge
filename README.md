@@ -4,7 +4,7 @@
 ***
 **Programms: ![Unity][lUnity] ![FL][FL Studio] **
 ***
-**Language: ![C#][C#] | width=100 **
+**Language: ![C#][C#] =10x10 **
 ***
 **Team:**
 + Jonas Braukmann
