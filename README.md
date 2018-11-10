@@ -24,4 +24,5 @@ One player reloads and stears to the right, the other shoots and stears to the l
 + Velerij Bezzakonv (Gameplay programming
 + (Alex Müller) (Shader programming)
 ***
-
+---
+___
