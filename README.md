@@ -15,4 +15,4 @@
 
 [Unity]: https://github.com/highdraze/braukmanngroup/Unity-Indie-Game-Development.jpg "Unity"
 [FL]: https://github.com/highdraze/braukmanngroup/FLAT_FRUIT_Black.png "FL"
-[C#]: ../../../braukmanngroup/blob/master/c-logo.png "C#"
+[C#]: ../../../braukmanngroup/blob/master/c-logo.png "C#" =50x50
