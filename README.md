@@ -20,10 +20,10 @@ One player reloads and stears to the right, the other shoots and stears to the l
 
 **Team:**
 + Jonas Braukmann (GUI programming, world design)
-+ Felix Trost (Soundtrack, graphics)
-+ Velerij Bezzakonv (Gameplay programming
++ Felix Trost (gameplay and physics)
++ Velerij Bezzakonv (soundtrack)
 + (Alex Müller) (Shader programming)
-+ Andreas Holzner
++ Andreas Holzner (graphics and 3d assets)
 ***
 ---
 ___
