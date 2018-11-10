@@ -1,2 +1,2 @@
-# Alt-H1 WorldsEdge
+#Alt-H1 WorldsEdge
 <%= octicon "ruby" %>
