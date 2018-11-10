@@ -23,6 +23,7 @@ One player reloads and stears to the right, the other shoots and stears to the l
 + Felix Trost (Soundtrack, graphics)
 + Velerij Bezzakonv (Gameplay programming
 + (Alex Müller) (Shader programming)
++ Andreas Holzner
 ***
 ---
 ___
