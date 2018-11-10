@@ -1,12 +1,12 @@
 # WorldsEdge
 
-**Platform: PC**
+**Platform: PC**d
 ***
-**Programms: Unity | FL Studio **
+**Programms: Unity | FL Studio**d
 ***
-**Language: C# **
+**Language: 'C#**
 ***
-**Team:**
+Team:
 + Jonas Braukmann
 + Felix Trost
 + Velerij Bezzakonv
