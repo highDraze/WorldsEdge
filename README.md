@@ -24,6 +24,5 @@ One player reloads and stears to the right, the other shoots and stears to the l
 + Velerij Bezzakonv (soundtrack)
 + (Alex Müller) (Shader programming)
 + Andreas Holzner (graphics and 3d assets)
-***
----
+___
 ___
